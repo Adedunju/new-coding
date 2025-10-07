@@ -1,0 +1,197 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+/* contaner */
+main{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    gap: 10px;
+    /* background-color: red; */
+}
+.leftSide{
+    height: 100vh;
+    width: 20%;
+    /* background-color: blue; */
+}
+.mainContainer{
+    width: 58%;
+    height: 100vh;
+    background-color: rgb(220, 215, 215);
+    margin-top: 50px;
+}
+.rightSide{
+     height: 110vh;
+    width: 20%;
+    background-color:paleturquoise;
+    padding-top: 70px;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    position: fixed;
+}
+
+.logo{
+    font-size: 40px;
+    color: rgb(52, 52, 218);
+    align-items: center;
+}
+button{
+    padding: 12px 30px;
+    border-radius: 210px;
+    padding-right: 50px;
+    border-width: 0;
+    
+}
+.btn{
+    margin-bottom: 1px;
+    margin-right: 30px;
+}
+.icons{
+    font-size: 30px;
+    color: gray;
+    padding-left: 50px;
+    display: flex;
+    gap: 50px;
+}
+
+.icons1{
+    font-size:30px;
+    color: black;
+   margin-left: 18rem;
+   gap: 15px  ;
+    display: flex;
+}
+.icons2{
+    margin: 10px;
+    font-size:x-large;
+    margin-top:60px ;
+}
+.btw{
+    color: blue;
+    background-color: gray;
+    
+}
+:hover.btn{
+    color: blueviolet;
+    background-color: cyan;
+}
+:hover.i2{
+    color: blue;
+}
+:hover.i3{
+    color: red;
+}
+:hover.i4{
+    color: darkgreen;
+}
+.a{
+    color: gray;
+    /* font-size: 40px; */
+}
+.b{
+    color: blue;
+    margin-top: 30px;
+}
+.c{
+    color: brown;
+    margin-top: 30px;
+}
+.d{
+    color: chocolate;
+    margin-top: 30px;
+}
+.e{
+    margin-top: 30px;
+}
+.f{
+    margin-top: 30px;
+}
+.g{
+    margin-top: 30px;
+}
+.h{
+    margin-top: 30px;
+}
+.i{
+    margin-top: 30px;
+}
+.j{
+    margin-top: 30px;
+}
+.k{
+    margin-top: 30px;
+}
+.l{
+    margin-top: 30px;
+}
+.m{
+    margin-top: 30px;
+}
+.n{
+    margin-top: 30px;
+}
+.o{
+    margin-top: 30px;
+}
+.p{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+    .leftSide{
+        visibility: hidden;
+    }
+    .mainContainer{
+        width: 100vh;
+        height: 100vh;
+    }
+}
+

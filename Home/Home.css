@@ -1,0 +1,72 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+body{
+    background-image: url(img/vlcsnap-2025-07-16-20h00m44s601.png);
+    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+}
+.navbar{
+    width:100%;
+    height: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 210px;
+    background-color:lightcoral;
+    color:lightgoldenrodyellow;
+}
+
+li{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+}
+Ul{
+    margin-left: -90px; 
+} 
+button{
+    width: 90px; 
+    height: 40px;
+    border-radius: 210px;
+    border-width: 0px; 
+    background-color:rgb(249, 47, 47);
+    margin-right: 0px;
+    color: lightgoldenrodyellow;   
+}
+button:hover{
+    background-color: blue;
+}
+.logo{
+    margin-left:40px;
+    font-family: 50px;
+    font-size: 20px;
+}
+ol{
+    font-size: 30px;
+    margin-right: -10px;
+    width: 90px;
+    border-radius: 210px;
+    text-align: center;
+}
+ol:hover{
+    background-color: blueviolet;
+}
+.herobanner{
+    width: 100%;
+    height: 200px;
+    background-color: gray;
+}
+.text{
+    color: aquamarine;
+    text-align: center;
+    padding-inline-start: 100px;
+}
+
+
+
