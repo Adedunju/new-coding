@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 40px;
+  
+}
+
+
+.celtofar1,
+.celtofar2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
