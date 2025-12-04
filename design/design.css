@@ -1,0 +1,57 @@
+.a1 {
+  align-items: center;
+  font-style: italic;
+}
+.A {
+  background: linear-gradient(rgb(58, 58, 196), green);
+  cursor: grab;
+}
+.B {
+  width: 400px;
+  border-radius: 360px;
+  margin-left: 450px;
+}
+
+p {
+  font-size: 30px;
+  margin-left: 450px;
+  /* height: 0px; */
+ text-decoration:overline green;
+
+}
+h2 {
+  color: red;
+  margin-left: 550px;
+   text-decoration:overline green;
+}
+h3 {
+  margin-left: 420px;
+}
+h6 {
+  color: purple;
+   height: 1px;
+   margin-top: 0%;
+}
+h5 {
+  color: gold;
+  height: 1px;
+  margin-top: 0%;
+}
+h4 {
+  color: greenyellow;
+
+  height: 1px;
+   margin-top: 0%;
+}
+.logo {
+  border: none;
+  font-size: 20px;
+}
+:hover.a{
+  background-color: blue;
+color: black;
+
+}
+
+
+

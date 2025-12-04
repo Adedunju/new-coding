@@ -1,0 +1,20 @@
+
+h1 {
+  color: blue;
+}
+.application {
+  align-items: center;
+  display: flex;
+  align-items: center;
+  text-decoration: solid;
+}
+.apill {
+    align-items: center;
+  display: flex;
+  align-items: center;
+  text-decoration: solid;
+}
+button {
+  color: blueviolet;
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: aquamarine;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin: 0%;
+}
+.Celcius {
+  color: blue;
+  text-align: center;
+  margin: 100px;
+}
+.fahrehaits{
+     color:green;
+  text-align: center;
+  margin: 100px;
+}
+button{
+    cursor:;
+    transition: 0.5s;
+    border: none;
+   background-color: gray;
+}
+button:active{
+    transform: matrix(12);
+}
